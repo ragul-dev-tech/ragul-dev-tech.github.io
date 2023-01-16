@@ -11,4 +11,4 @@
 
 ## Demo 
 
-- Open https://ragul-dev-tech.github.io/index.html in the browser.
+- Open https://ragul-dev-tech.github.io in the browser.
